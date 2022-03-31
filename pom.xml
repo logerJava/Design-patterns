@@ -11,6 +11,7 @@
     <modules>
         <module>State-Pattern</module>
         <module>Factory-Pattern</module>
+        <module>Singleton-Pattern</module>
     </modules>
 
     <properties>
