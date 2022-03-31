@@ -1,7 +1,6 @@
 package com.demo;
 
 /**
- * Copyright 2022 juzishu.com.cn Inc. All Rights Reserved.
  * @author chao
  * @project Design-patterns
  * @package com.demo

@@ -5,7 +5,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * Copyright 2022 juzishu.com.cn Inc. All Rights Reserved.
  * @author chao
  * @project Design-patterns
  * @package com.demo
