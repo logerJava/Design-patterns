@@ -12,6 +12,7 @@
         <module>State-Pattern</module>
         <module>Factory-Pattern</module>
         <module>Singleton-Pattern</module>
+        <module>Builder-Pattern</module>
     </modules>
 
     <properties>
