@@ -13,6 +13,7 @@
         <module>Factory-Pattern</module>
         <module>Singleton-Pattern</module>
         <module>Builder-Pattern</module>
+        <module>Prototype-Pattern</module>
     </modules>
 
     <properties>
