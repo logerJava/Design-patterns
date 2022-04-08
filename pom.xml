@@ -15,6 +15,7 @@
         <module>Builder-Pattern</module>
         <module>Prototype-Pattern</module>
         <module>Strategy-Pattern</module>
+        <module>Proxy-Pattern</module>
     </modules>
 
     <properties>
