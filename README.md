@@ -5,7 +5,7 @@
   - 抽象工厂模式（Abstract Factory Pattern）
   - 单例模式（Singleton Pattern）✔️ 
   - 建造者模式（Builder Pattern）✔️
-  - 原型模式（Prototype Pattern）c
+  - 原型模式（Prototype Pattern）
 - 结构型模式
   - 适配器模式（Adapter Pattern）
   - 桥接模式（Bridge Pattern）
