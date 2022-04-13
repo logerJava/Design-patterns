@@ -19,6 +19,7 @@
         <module>Adapter-Pattern</module>
         <module>Bridge-Pattern</module>
         <module>Decorator-Pattern</module>
+        <module>Chain-of-Responsibility-Pattern</module>
     </modules>
 
     <properties>
