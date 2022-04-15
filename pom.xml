@@ -20,6 +20,7 @@
         <module>Bridge-Pattern</module>
         <module>Decorator-Pattern</module>
         <module>Chain-of-Responsibility-Pattern</module>
+        <module>Observer-Pattern</module>
     </modules>
 
     <properties>
