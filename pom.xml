@@ -21,6 +21,7 @@
         <module>Decorator-Pattern</module>
         <module>Chain-of-Responsibility-Pattern</module>
         <module>Observer-Pattern</module>
+        <module>Flyweight-Pattern</module>
     </modules>
 
     <properties>
