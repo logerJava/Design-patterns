@@ -13,7 +13,7 @@
   - 组合模式（Composite Pattern）
   - 装饰器模式（Decorator Pattern）✔️
   - 外观模式（Facade Pattern）
-  - 享元模式（Flyweight Pattern）
+  - 享元模式（Flyweight Pattern）✔️
   - 代理模式（Proxy Pattern）✔️
 - 行为型模式
   - 责任链模式（Chain of Responsibility Pattern）✔️
