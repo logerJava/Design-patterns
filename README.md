@@ -1,5 +1,6 @@
 # 设计模式
-
+- 扫盲
+  - [基础概念](https://juejin.cn/post/6957355222788210696) ✔️
 - 创建型模式 
   - 工厂模式（Factory Pattern）✔️
   - 抽象工厂模式（Abstract Factory Pattern）
